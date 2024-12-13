@@ -1,3 +1,6 @@
 [submodule "day-22"]
 	path = day-22
 	url = https://github.com/christopinka/100-days-of-python
+[submodule "day-21"]
+	path = day-21
+	url = https://github.com/christopinka/100-days-of-python.git
