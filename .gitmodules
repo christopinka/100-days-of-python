@@ -4,3 +4,6 @@
 [submodule "day-21"]
 	path = day-21
 	url = https://github.com/christopinka/100-days-of-python.git
+[submodule "day-45"]
+	path = day-45
+	url = ./day-45
